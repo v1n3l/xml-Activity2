@@ -4,56 +4,56 @@
         <brand>Toyota Motor Corporation</brand>
         <name>Toyota FORTUNER</name>
         <engine>4-Cylinder, In-line, 16-Valve DOHC Variable Nozzle Turbo with Air-cooled Intercooler</engine>
-        <color>
-            <country>White</country>
-            <country>Black</country>
-            <country>Gray</country>
-            <country>Red</country>
-        </color>
+        <colors>
+            <paint>White</paint>
+            <paint>Black</paint>
+            <paint>Gray</paint>
+            <paint>Red</paint>
+        </colors>
     </car>
     <car>
         <brand>Honda Motor Company</brand>
         <name>Honda HR-V</name>
         <engine>HR-V. A 2.0-liter four-cylinder inline-four engine produces 158 hp and 138 lb-ft of torque, up 17 hp and 11 lb-ft from the previous model. Power is sent to the wheels by way of a CVT. Front-wheel drive is standard and all-wheel drive is available for every trim level.</engine>
-        <color>
-            <country>White</country>
-            <country>Black</country>
-            <country>Gray</country>
-            <country>Red</country>
-        </color>
+        <colors>
+            <paint>White</paint>
+            <paint>Black</paint>
+            <paint>Gray</paint>
+            <paint>Red</paint>
+        </colors>
     </car>
     <car>
         <brand>Honda Motor Company</brand>
         <name>Honda Odyssey</name>
         <engine>direct-injection V-6—a 3.5-liter, aluminum-alloy, single-overhead camshaft, 24-valve i-VTEC</engine>
-        <color>
-            <country>White</country>
-            <country>Black</country>
-            <country>Gray</country>
-            <country>Red</country>
-        </color>
+        <colors>
+            <paint>White</paint>
+            <paint>Black</paint>
+            <paint>Gray</paint>
+            <paint>Red</paint>
+        </colors>
     </car>
     <car>
         <brand>Toyota Motor Corporation</brand>
         <name>Toyota GR Supra</name>
         <engine>6 cylinders, In-line Type, Twin-Scroll Turbochargedgit</engine>
-        <color>
-            <country>White</country>
-            <country>Black</country>
-            <country>Gray</country>
-            <country>Red</country>
-        </color>
+        <colors>
+            <paint>White</paint>
+            <paint>Black</paint>
+            <paint>Gray</paint>
+            <paint>Red</paint>
+        </colors>
     </car>
     <car>
         <brand>Toyota Motor Corporation</brand>
         <name>Corolla Altis</name>
         <engine>Dual VVT-I, 4-Cylinder In-Line DOHC, 16 Valve</engine>
-        <color>
-            <country>White</country>
-            <country>Black</country>
-            <country>Gray</country>
-            <country>Red</country>
-        </color>
+        <colors>
+            <paint>White</paint>
+            <paint>Black</paint>
+            <paint>Gray</paint>
+            <paint>Red</paint>
+        </colors>
     </car>
    
 

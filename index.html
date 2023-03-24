@@ -38,14 +38,14 @@
                     <th>BRAND</th>
                     <th>NAME</th>
                     <th>ENGINE</th>
-                    <th>Color</th>
+                    <th>COLORS</th>
                 </tr>
             `;
 
             var brand = xmlDoc.getElementsByTagName("brand");
             var name = xmlDoc.getElementsByTagName("name");
             var engine = xmlDoc.getElementsByTagName("engine");
-            var color = xmlDoc.getElementsByTagName("color");
+            var colors = xmlDoc.getElementsByTagName("colors");
 
             for (i = 0; i< brand.length; i++) {
                 txt += `
@@ -56,8 +56,8 @@
                         <td>
                             <ul>`;
                                 var list = "";
-                                for(j = 0; j < color.length-1;j++){
-                                    list += `<li>${color[i].children[j].childNodes[0].nodeValue}</li>`;
+                                for(j = 0; j < colors.length-1;j++){
+                                    list += `<li>${colors[i].children[j].childNodes[0].nodeValue}</li>`;
                                 }
 
                 txt +=`
